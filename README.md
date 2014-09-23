@@ -3,4 +3,4 @@ hello_world
 
 first repo
 
-My name is Mike
+My name is Mike Lee
